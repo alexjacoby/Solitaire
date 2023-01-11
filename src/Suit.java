@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Suit {
+public enum Suit {
+   HEARTS, SPADES, CLUBS, DIAMONDS
 }
